@@ -6,18 +6,15 @@ body {
     border: .5px solid #8888888e;
 }
 
-/* padding = margens de 13px para cima/baixo e 45px para direita/esquerda */
 header {
     padding: 13px 45px; 
     border: .5px solid #8888888e;
 }
 
-/* conteudo do main */
 main {
     padding: 16px 45px;
 }
 
-/* margem de baixo - Imagem do banner */
 .banner {
     margin-bottom: 45px;
 }
@@ -48,4 +45,37 @@ section .right{
     font-weight: 400;
     font-size: 25px;
     line-height: 27px;
+}
+
+.categories.industrial{
+    background-image: url("img/industrial.png");
+    color:#EEEEEE;
+}
+
+.categories.modern{
+    background-image: url("img/modern.png");
+    color:#EEEEEE;
+}
+
+.categories.classic{
+    background-image: url("img/classic.png");
+    color:#EEEEEE;
+}
+
+.your-style {
+    margin: 45px 0;
+    color:gray;
+    font-weight: 400px;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.description {
+    background-color: #EEEEEE;
+    padding: 12px;
+    max-width: 232px
 }
