@@ -6,14 +6,25 @@ body {
     border: .5px solid #8888888e;
 }
 
+
+
+
 header {
     padding: 13px 45px; 
     border: .5px solid #8888888e;
 }
 
+
+
+
+
 main {
     padding: 16px 45px;
 }
+
+
+
+
 
 .banner {
     margin-bottom: 45px;
@@ -45,6 +56,7 @@ section .right{
     font-weight: 400;
     font-size: 25px;
     line-height: 27px;
+
 }
 
 .categories.industrial{
@@ -79,3 +91,4 @@ section .right{
     padding: 12px;
     max-width: 232px
 }
+
