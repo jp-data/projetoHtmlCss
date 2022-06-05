@@ -92,3 +92,6 @@ section .right{
     max-width: 232px
 }
 
+.money {
+    font-size: 25px;
+}
