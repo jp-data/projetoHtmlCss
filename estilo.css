@@ -44,5 +44,16 @@ section .description {
     text-align: center;
 }
 
+.description .money {
+    font-size: 22px;
+    margin-right: 120px;
+    color: gray;
+}
 
+.badge-green {
+    background-color: green;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+}
 
